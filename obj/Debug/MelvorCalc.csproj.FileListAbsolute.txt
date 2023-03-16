@@ -1,0 +1,11 @@
+C:\Users\Josh\source\repos\MelvorCalc\MelvorCalc\bin\Debug\MelvorCalc.exe.config
+C:\Users\Josh\source\repos\MelvorCalc\MelvorCalc\bin\Debug\MelvorCalc.exe
+C:\Users\Josh\source\repos\MelvorCalc\MelvorCalc\bin\Debug\MelvorCalc.pdb
+C:\Users\Josh\source\repos\MelvorCalc\MelvorCalc\obj\Debug\MelvorCalc.csproj.AssemblyReference.cache
+C:\Users\Josh\source\repos\MelvorCalc\MelvorCalc\obj\Debug\MelvorCalc.csproj.SuggestedBindingRedirects.cache
+C:\Users\Josh\source\repos\MelvorCalc\MelvorCalc\obj\Debug\MelvorCalc.Form1.resources
+C:\Users\Josh\source\repos\MelvorCalc\MelvorCalc\obj\Debug\MelvorCalc.Properties.Resources.resources
+C:\Users\Josh\source\repos\MelvorCalc\MelvorCalc\obj\Debug\MelvorCalc.csproj.GenerateResource.cache
+C:\Users\Josh\source\repos\MelvorCalc\MelvorCalc\obj\Debug\MelvorCalc.csproj.CoreCompileInputs.cache
+C:\Users\Josh\source\repos\MelvorCalc\MelvorCalc\obj\Debug\MelvorCalc.exe
+C:\Users\Josh\source\repos\MelvorCalc\MelvorCalc\obj\Debug\MelvorCalc.pdb
